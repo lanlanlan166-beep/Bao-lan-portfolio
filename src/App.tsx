@@ -844,7 +844,7 @@ export default function App() {
                 title: "Building Brand Creativity",
                 category: "MOSSY ORGANIC",
                 description: "Founded and positioned MOSSY, a vegan cosmetic brand. Focused on the message 'Healthy skin for Vietnamese' with a strategy to launch 4 natural extract product lines.",
-                imageUrl: "/PORTFOLIO-TACN-ST6-MOSS.jpg",
+                imageUrl: "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777559662/PORTFOLIO-TACN-ST6-MOSS_ag52og.jpg",
                 tags: ["BRAND STRATEGY", "PRODUCT DEVELOPMENT", "4P MARKETING"],
                 fullContent: MOSSY_CONTENT
               },
