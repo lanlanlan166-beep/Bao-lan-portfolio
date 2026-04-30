@@ -920,14 +920,14 @@ export default function App() {
               <div className="space-y-12">
                 <div className="space-y-4">
                   <div className="flex justify-between items-center text-primary text-sm font-semibold tracking-widest uppercase">
-                    <span>2022 - 2026</span>
+                    <span>2024 - 2026</span>
                     <Badge variant="outline" className="text-white border-white/20">GPA 3.8/4.0</Badge>
                   </div>
                   <h4 className="text-2xl font-bold">Ho Chi Minh City College of Economics</h4>
                   <p className="text-muted-foreground text-lg">Marketing Major - Graduated with High Honors.</p>
                 </div>
                 <div className="space-y-4 pt-10 border-t border-white/5">
-                   <span className="text-primary text-sm font-semibold tracking-widest uppercase">2018 - 2020</span>
+                   <span className="text-primary text-sm font-semibold tracking-widest uppercase">2022 - 2026</span>
                   <h4 className="text-2xl font-bold">Industrial University of Ho Chi Minh City</h4>
                   <p className="text-muted-foreground text-lg">Chemical Engineering Major (General Studies Phase).</p>
                 </div>
