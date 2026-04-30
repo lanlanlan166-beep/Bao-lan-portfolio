@@ -920,7 +920,7 @@ export default function App() {
               <div className="space-y-12">
                 <div className="space-y-4">
                   <div className="flex justify-between items-center text-primary text-sm font-semibold tracking-widest uppercase">
-                    <span>2020 - 2023</span>
+                    <span>2022 - 2026</span>
                     <Badge variant="outline" className="text-white border-white/20">GPA 3.8/4.0</Badge>
                   </div>
                   <h4 className="text-2xl font-bold">Ho Chi Minh City College of Economics</h4>
@@ -1065,9 +1065,8 @@ export default function App() {
             © {new Date().getFullYear()} Marketing Portfolio. Crafted with passion by PBL.
           </p>
           <div className="flex gap-6">
-            <a href="#" className="text-muted-foreground hover:text-white transition-colors">LinkedIn</a>
-            <a href="#" className="text-muted-foreground hover:text-white transition-colors">Facebook</a>
-            <a href="#" className="text-muted-foreground hover:text-white transition-colors">Behance</a>
+            <a href="https://zalo.me/0925719181" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-white transition-colors">Zalo</a>
+            <a href="https://www.facebook.com/lanpin.bao" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-white transition-colors">Facebook</a>
           </div>
         </div>
       </footer>
