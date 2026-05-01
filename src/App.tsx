@@ -4,6 +4,7 @@
  */
 
 import { motion, useScroll, useTransform, AnimatePresence } from "motion/react";
+import { Analytics } from "@vercel/analytics/react";
 import { 
   PenTool, 
   BarChart, 
@@ -646,6 +647,7 @@ export default function App() {
 
   return (
     <div ref={containerRef} className="min-h-screen selection:bg-primary selection:text-white">
+      <Analytics />
       <Navbar />
 
       {/* Hero Section */}
