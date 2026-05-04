@@ -296,7 +296,7 @@ const VisualMeMarquee = () => {
     "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777553195/row-1-1_locf3f.jpg",
     "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777553359/row-1-2_mpn4ja.jpg",
     "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777553403/row-1-3-1_c0gh9b.jpg",
-    "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777553436/row-1-4_ie9xyq.jpg",
+    "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777875063/row3_oqusqe.jpg",
     "https://res.cloudinary.com/dxrwnn7ry/image/upload/v1777553460/row-1-5-1_drrkrv.jpg",
   ];
   
